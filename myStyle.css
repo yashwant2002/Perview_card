@@ -1,0 +1,44 @@
+.container{
+    width: 1440px;
+    display: flex;
+    font-size: 15px;
+    background-color: hsl(233, 47%, 7%);
+    height: 700px ;
+    padding: 45px;         
+}
+.preview{
+    float: left;
+    width: 500px;
+    height: 350px;
+    background-color: hsl(244, 38%, 16%);
+    padding: 50px;
+}
+.img{
+    float: left;
+    background-image: hsl(277, 64%, 61%);
+    width: 500px;
+}
+h1{
+    color:  hsl(0, 0%, 100%);
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+body{
+    background-color: blueviolethsl(233, 47%, 7%);
+}
+.test{
+    text-align: center;
+}
+.reviews{
+    display: inline-block;
+    width: 150px;
+    height: 20px;
+}
+.center{
+    padding: 100px;
+}
